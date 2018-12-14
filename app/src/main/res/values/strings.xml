@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GameGameTeste</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="cancel">cancel</string>
+    <string name="dialog_fire_missiles">Fire the missiles?</string>
+    <string name="fire">fire</string>
+    <string name="inventory">Inventory</string>>
+
+</resources>
